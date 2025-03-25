@@ -30,7 +30,7 @@ export class StudentService {
 
     params = params.append('pageSize', studentParams.pageSize);
 
-    params = params.append('pageNumber', studentParams.pageNumber);
+    params = params.append('pageIndex', studentParams.pageNumber);
 
     return this.http.get<Pagination<Student>>(this.baseUrl + 'students', {params});
   }

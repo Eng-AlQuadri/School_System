@@ -50,7 +50,9 @@ public class SubjectsController : BaseApiController
 
         if (subjects is null) return BadRequest("No subjects");
 
-        var marks = await _unitOfWork.Repository<Mark>().ListAllAsync();
+        var markSpec = new MarkSpecification(student.Id);
+
+        var marks = await _unitOfWork.Repository<Mark>().ListAsync(markSpec);
 
         if (marks is null) return BadRequest("No marks");
 

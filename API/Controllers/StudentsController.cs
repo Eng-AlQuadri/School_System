@@ -177,8 +177,13 @@ public class StudentsController : BaseApiController
 
         if (user.Id != currentUserId) return Unauthorized("You are not allowed to do this");
 
-        if (await UserExists(updateStudentDto.Email)) 
-            return BadRequest("This Email is used by another user");
+        if (user.Email != updateStudentDto.Email) 
+        {
+            if (await UserExists(updateStudentDto.Email)) 
+            {
+                return BadRequest("This Email is used by another user");
+            }
+        }
 
         _mapper.Map(updateStudentDto, user);
 

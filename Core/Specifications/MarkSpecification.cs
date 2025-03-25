@@ -9,4 +9,9 @@ public class MarkSpecification : BaseSpecefication<Mark>
     {
         
     }
+
+    public MarkSpecification(int studentId) : base(x => x.StudentId == studentId)
+    {
+
+    }
 }

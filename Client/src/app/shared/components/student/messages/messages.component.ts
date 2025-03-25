@@ -37,7 +37,6 @@ export class MessagesComponent implements OnInit, OnDestroy{
   ngOnInit(): void {
     this.loadContacts();
     this.currentUser = this.accountService.currentUser()!;
-    console.log(this.currentUser)
   }
 
   ngOnDestroy(): void {
