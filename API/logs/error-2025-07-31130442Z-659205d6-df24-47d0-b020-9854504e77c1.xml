@@ -1,0 +1,226 @@
+﻿<error errorId="659205d6-df24-47d0-b020-9854504e77c1" application="API" host="QAWADRI-TRAINEE" type="System.Exception" message="Invalid Username OR Password" source="API" detail="# caller: @C:\Sources\ElmahCore\ElmahCore\ElmahCore\Internal$\CallerInfo.cs:9&#xD;&#xA;System.Exception: Invalid Username OR Password&#xD;&#xA;   at API.Controllers.AccountController.Login(LoginDto loginDto) in C:\Users\a.alqawadri\Desktop\school edited\api\Controllers\AccountController.cs:line 97&#xD;&#xA;   at lambda_method29(Closure, Object)&#xD;&#xA;   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)&#xD;&#xA;   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.&lt;InvokeActionMethodAsync&gt;g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)&#xD;&#xA;   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.&lt;InvokeNextActionFilterAsync&gt;g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)&#xD;&#xA;   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)&#xD;&#xA;   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State&amp; next, Scope&amp; scope, Object&amp; state, Boolean&amp; isCompleted)&#xD;&#xA;   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.&lt;InvokeInnerFilterAsync&gt;g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)&#xD;&#xA;   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeFilterPipelineAsync&gt;g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)&#xD;&#xA;   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Logged|17_1(ResourceInvoker invoker)&#xD;&#xA;   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.&lt;InvokeAsync&gt;g__Logged|17_1(ResourceInvoker invoker)&#xD;&#xA;   at Microsoft.AspNetCore.Routing.EndpointMiddleware.&lt;Invoke&gt;g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)&#xD;&#xA;   at ElmahCore.Mvc.ErrorLogMiddleware.InvokeAsync(HttpContext context)" time="2025-07-31T13:04:42.4687425Z" statusCode="500">
+  <serverVariables>
+    <item name="TotalParsedHeaderSize">
+      <value string="622" />
+    </item>
+    <item name="StreamId">
+      <value string="3" />
+    </item>
+    <item name="InputRemaining">
+      <value string="0" />
+    </item>
+    <item name="RequestBodyStarted">
+      <value string="True" />
+    </item>
+    <item name="EndStreamReceived">
+      <value string="True" />
+    </item>
+    <item name="ReceivedEmptyRequestBody">
+      <value string="False" />
+    </item>
+    <item name="CanReuse">
+      <value string="False" />
+    </item>
+    <item name="ConnectionIdFeature">
+      <value string="0HNEG4UQRO6UU" />
+    </item>
+    <item name="HasStartedConsumingRequestBody">
+      <value string="True" />
+    </item>
+    <item name="MaxRequestBodySize">
+      <value string="30000000" />
+    </item>
+    <item name="MinRequestBodyDataRate">
+      <value string="Bytes per second: 240, Grace Period: 00:00:05" />
+    </item>
+    <item name="AllowSynchronousIO">
+      <value string="False" />
+    </item>
+    <item name="TraceIdentifier">
+      <value string="0HNEG4UQRO6UU:00000003" />
+    </item>
+    <item name="IsUpgradableRequest">
+      <value string="False" />
+    </item>
+    <item name="IsUpgraded">
+      <value string="False" />
+    </item>
+    <item name="IsExtendedConnectRequest">
+      <value string="False" />
+    </item>
+    <item name="IsExtendedConnectAccepted">
+      <value string="False" />
+    </item>
+    <item name="RemoteIpAddress">
+      <value string="::1" />
+    </item>
+    <item name="RemotePort">
+      <value string="51548" />
+    </item>
+    <item name="LocalIpAddress">
+      <value string="::1" />
+    </item>
+    <item name="LocalPort">
+      <value string="5001" />
+    </item>
+    <item name="Scheme">
+      <value string="https" />
+    </item>
+    <item name="Method">
+      <value string="Post" />
+    </item>
+    <item name="MethodText">
+      <value string="POST" />
+    </item>
+    <item name="Path">
+      <value string="/api/account/login" />
+    </item>
+    <item name="QueryString">
+      <value string="" />
+    </item>
+    <item name="RawTarget">
+      <value string="/api/account/login" />
+    </item>
+    <item name="HttpVersion">
+      <value string="HTTP/2" />
+    </item>
+    <item name="Header_Accept">
+      <value string="application/json, text/plain, */*" />
+    </item>
+    <item name="Header_Host">
+      <value string="localhost:5001" />
+    </item>
+    <item name="Header_User-Agent">
+      <value string="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" />
+    </item>
+    <item name="Header_Accept-Encoding">
+      <value string="gzip, deflate, br, zstd" />
+    </item>
+    <item name="Header_Accept-Language">
+      <value string="en-GB,en-US;q=0.9,en;q=0.8" />
+    </item>
+    <item name="Header_Content-Type">
+      <value string="application/json" />
+    </item>
+    <item name="Header_Origin">
+      <value string="https://localhost:4200" />
+    </item>
+    <item name="Header_Referer">
+      <value string="https://localhost:4200/" />
+    </item>
+    <item name="Header_Content-Length">
+      <value string="48" />
+    </item>
+    <item name="Header_custom-language">
+      <value string="&quot;en&quot;" />
+    </item>
+    <item name="Header_sec-ch-ua-platform">
+      <value string="&quot;Windows&quot;" />
+    </item>
+    <item name="Header_sec-ch-ua">
+      <value string="&quot;Not)A;Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;138&quot;, &quot;Google Chrome&quot;;v=&quot;138&quot;" />
+    </item>
+    <item name="Header_sec-ch-ua-mobile">
+      <value string="?0" />
+    </item>
+    <item name="Header_sec-fetch-site">
+      <value string="same-site" />
+    </item>
+    <item name="Header_sec-fetch-mode">
+      <value string="cors" />
+    </item>
+    <item name="Header_sec-fetch-dest">
+      <value string="empty" />
+    </item>
+    <item name="Header_priority">
+      <value string="u=1, i" />
+    </item>
+    <item name="RequestTrailersAvailable">
+      <value string="True" />
+    </item>
+    <item name="StatusCode">
+      <value string="200" />
+    </item>
+    <item name="HasResponseStarted">
+      <value string="False" />
+    </item>
+    <item name="HasFlushedHeaders">
+      <value string="False" />
+    </item>
+    <item name="HasResponseCompleted">
+      <value string="False" />
+    </item>
+    <item name="UnflushedBytes">
+      <value string="0" />
+    </item>
+    <item name="IsWebTransportRequest">
+      <value string="False" />
+    </item>
+    <item name="Items_Items_CurrentLanguage">
+      <value string="en" />
+    </item>
+    <item name="Connection_Id">
+      <value string="0HNEG4UQRO6UU" />
+    </item>
+    <item name="Connection_RemoteIpAddress">
+      <value string="::1" />
+    </item>
+    <item name="Connection_RemotePort">
+      <value string="51548" />
+    </item>
+    <item name="Connection_LocalIpAddress">
+      <value string="::1" />
+    </item>
+    <item name="Connection_LocalPort">
+      <value string="5001" />
+    </item>
+    <item name="HttpStatusCode">
+      <value string="500" />
+    </item>
+  </serverVariables>
+  <form>
+    <item name="$request-body">
+      <value string="{&quot;email&quot;:&quot;admin@test.com&quot;,&quot;password&quot;:&quot;lkjhgfds&quot;}" />
+    </item>
+  </form>
+  <messageLog>
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3257218Z" message="Connection id &quot;0HNEG4UQRO6UU&quot;, Request id &quot;0HNEG4UQRO6UU:00000003&quot;: started reading request body." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3257462Z" message="Connection id &quot;0HNEG4UQRO6UU&quot;, Request id &quot;0HNEG4UQRO6UU:00000003&quot;: done reading request body." />
+    <message level="Information" time-stamp="2025-07-31T13:04:42.3260877Z" message="Executing endpoint 'API.Controllers.AccountController.Login (API)'" />
+    <message level="Information" time-stamp="2025-07-31T13:04:42.3289947Z" message="Route matched with {action = &quot;Login&quot;, controller = &quot;Account&quot;}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[API.DTOs.UserDto]] Login(API.DTOs.LoginDto) on controller API.Controllers.AccountController (API)." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3291669Z" message="Execution plan of authorization filters (in the following order): None" />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3295387Z" message="Execution plan of resource filters (in the following order): None" />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3297162Z" message="Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000), API.Helpers.LogUserActivity" />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3297238Z" message="Execution plan of exception filters (in the following order): None" />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3297326Z" message="Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)" />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3299897Z" message="Executing controller factory for controller API.Controllers.AccountController (API)" />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3427864Z" message="Executed controller factory for controller API.Controllers.AccountController (API)" />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3429699Z" message="Attempting to bind parameter 'loginDto' of type 'API.DTOs.LoginDto' ..." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3430554Z" message="Attempting to bind parameter 'loginDto' of type 'API.DTOs.LoginDto' using the name '' in request data ..." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3431025Z" message="Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter' for content type 'application/json'." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3432559Z" message="JSON input formatter succeeded, deserializing to type 'API.DTOs.LoginDto'" />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3432845Z" message="Done attempting to bind parameter 'loginDto' of type 'API.DTOs.LoginDto'." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3432890Z" message="Done attempting to bind parameter 'loginDto' of type 'API.DTOs.LoginDto'." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3432972Z" message="Attempting to validate the bound parameter 'loginDto' of type 'API.DTOs.LoginDto' ..." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3435104Z" message="Done attempting to validate the bound parameter 'loginDto' of type 'API.DTOs.LoginDto'." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3454638Z" message="Entity Framework Core 9.0.2 initialized 'DataContext' using provider 'Pomelo.EntityFrameworkCore.MySql:9.0.0-preview.3.efcore.9.0.0' with options: ParameterizedCollectionTranslationMode=Constantize ServerVersion=5.7.20-mysql " />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3470758Z" message="Creating DbConnection." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3471702Z" message="Created DbConnection. (0ms)." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3472785Z" message="Opening connection to database 'testdb' on server 'localhost'." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3566918Z" message="Opened connection to database 'testdb' on server 'localhost'." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3568931Z" message="Creating DbCommand for 'ExecuteReader'." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3569756Z" message="Created DbCommand for 'ExecuteReader' (0ms)." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3571745Z" message="Initialized DbCommand for 'ExecuteReader' (0ms)." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3576257Z" message="Executing DbCommand [Parameters=[@__loginDto_Email_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']&#xD;&#xA;SELECT `a0`.`Id`, `a0`.`AccessFailedCount`, `a0`.`ConcurrencyStamp`, `a0`.`CreatedAt`, `a0`.`Email`, `a0`.`EmailConfirmed`, `a0`.`LastActive`, `a0`.`LockoutEnabled`, `a0`.`LockoutEnd`, `a0`.`NormalizedEmail`, `a0`.`NormalizedUserName`, `a0`.`PasswordHash`, `a0`.`PhoneNumber`, `a0`.`PhoneNumberConfirmed`, `a0`.`SecurityStamp`, `a0`.`TwoFactorEnabled`, `a0`.`UserName`, `p`.`Id`, `p`.`AppUserId`, `p`.`IsMain`, `p`.`PublicId`, `p`.`Url`&#xD;&#xA;FROM (&#xD;&#xA;    SELECT `a`.`Id`, `a`.`AccessFailedCount`, `a`.`ConcurrencyStamp`, `a`.`CreatedAt`, `a`.`Email`, `a`.`EmailConfirmed`, `a`.`LastActive`, `a`.`LockoutEnabled`, `a`.`LockoutEnd`, `a`.`NormalizedEmail`, `a`.`NormalizedUserName`, `a`.`PasswordHash`, `a`.`PhoneNumber`, `a`.`PhoneNumberConfirmed`, `a`.`SecurityStamp`, `a`.`TwoFactorEnabled`, `a`.`UserName`&#xD;&#xA;    FROM `AspNetUsers` AS `a`&#xD;&#xA;    WHERE `a`.`Email` = @__loginDto_Email_0&#xD;&#xA;    LIMIT 2&#xD;&#xA;) AS `a0`&#xD;&#xA;LEFT JOIN `Photos` AS `p` ON `a0`.`Id` = `p`.`AppUserId`&#xD;&#xA;ORDER BY `a0`.`Id`" />
+    <message level="Information" time-stamp="2025-07-31T13:04:42.3621444Z" message="Executed DbCommand (5ms) [Parameters=[@__loginDto_Email_0='?' (Size = 256)], CommandType='Text', CommandTimeout='30']&#xD;&#xA;SELECT `a0`.`Id`, `a0`.`AccessFailedCount`, `a0`.`ConcurrencyStamp`, `a0`.`CreatedAt`, `a0`.`Email`, `a0`.`EmailConfirmed`, `a0`.`LastActive`, `a0`.`LockoutEnabled`, `a0`.`LockoutEnd`, `a0`.`NormalizedEmail`, `a0`.`NormalizedUserName`, `a0`.`PasswordHash`, `a0`.`PhoneNumber`, `a0`.`PhoneNumberConfirmed`, `a0`.`SecurityStamp`, `a0`.`TwoFactorEnabled`, `a0`.`UserName`, `p`.`Id`, `p`.`AppUserId`, `p`.`IsMain`, `p`.`PublicId`, `p`.`Url`&#xD;&#xA;FROM (&#xD;&#xA;    SELECT `a`.`Id`, `a`.`AccessFailedCount`, `a`.`ConcurrencyStamp`, `a`.`CreatedAt`, `a`.`Email`, `a`.`EmailConfirmed`, `a`.`LastActive`, `a`.`LockoutEnabled`, `a`.`LockoutEnd`, `a`.`NormalizedEmail`, `a`.`NormalizedUserName`, `a`.`PasswordHash`, `a`.`PhoneNumber`, `a`.`PhoneNumberConfirmed`, `a`.`SecurityStamp`, `a`.`TwoFactorEnabled`, `a`.`UserName`&#xD;&#xA;    FROM `AspNetUsers` AS `a`&#xD;&#xA;    WHERE `a`.`Email` = @__loginDto_Email_0&#xD;&#xA;    LIMIT 2&#xD;&#xA;) AS `a0`&#xD;&#xA;LEFT JOIN `Photos` AS `p` ON `a0`.`Id` = `p`.`AppUserId`&#xD;&#xA;ORDER BY `a0`.`Id`" />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3638502Z" message="Context 'DataContext' started tracking 'AppUser' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3646077Z" message="Closing data reader to 'testdb' on server 'localhost'." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3647494Z" message="A data reader for 'testdb' on server 'localhost' is being disposed after spending 2ms reading results." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3652414Z" message="Closing connection to database 'testdb' on server 'localhost'." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.3653176Z" message="Closed connection to database 'testdb' on server 'localhost' (0ms)." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.4665549Z" message="Invalid password for user." />
+    <message level="Debug" time-stamp="2025-07-31T13:04:42.4665878Z" message="User failed to provide the correct password." />
+    <message level="Information" time-stamp="2025-07-31T13:04:42.4674105Z" message="Executed action API.Controllers.AccountController.Login (API) in 137.616ms" />
+    <message level="Information" time-stamp="2025-07-31T13:04:42.4674644Z" message="Executed endpoint 'API.Controllers.AccountController.Login (API)'" />
+  </messageLog>
+</error>

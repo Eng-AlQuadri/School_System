@@ -1,0 +1,70 @@
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\bin\Debug\net9.0\Core.dll
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\bin\Debug\net9.0\Core.pdb
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\Users\abdul\OneDrive\Desktop\SchoolNet\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\bin\Debug\net9.0\Core.dll
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\bin\Debug\net9.0\Core.pdb
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\Users\USER\Downloads\School_System-main\School_System-main\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\bin\Debug\net9.0\Core.dll
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\bin\Debug\net9.0\Core.pdb
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\Users\USER\Desktop\New folder\test2\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\bin\Debug\net9.0\Core.dll
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\bin\Debug\net9.0\Core.pdb
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\Users\a.alqawadri\Desktop\school edited\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
