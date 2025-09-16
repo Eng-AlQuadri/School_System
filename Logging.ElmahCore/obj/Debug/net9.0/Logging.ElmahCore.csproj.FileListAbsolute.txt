@@ -1,0 +1,12 @@
+C:\Users\a.alqawadri\Desktop\school edited\Logging.ElmahCore\bin\Debug\net9.0\Logging.ElmahCore.deps.json
+C:\Users\a.alqawadri\Desktop\school edited\Logging.ElmahCore\bin\Debug\net9.0\Logging.ElmahCore.dll
+C:\Users\a.alqawadri\Desktop\school edited\Logging.ElmahCore\bin\Debug\net9.0\Logging.ElmahCore.pdb
+C:\Users\a.alqawadri\Desktop\school edited\Logging.ElmahCore\obj\Debug\net9.0\Logging.ElmahCore.csproj.AssemblyReference.cache
+C:\Users\a.alqawadri\Desktop\school edited\Logging.ElmahCore\obj\Debug\net9.0\Logging.ElmahCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.alqawadri\Desktop\school edited\Logging.ElmahCore\obj\Debug\net9.0\Logging.ElmahCore.AssemblyInfoInputs.cache
+C:\Users\a.alqawadri\Desktop\school edited\Logging.ElmahCore\obj\Debug\net9.0\Logging.ElmahCore.AssemblyInfo.cs
+C:\Users\a.alqawadri\Desktop\school edited\Logging.ElmahCore\obj\Debug\net9.0\Logging.ElmahCore.csproj.CoreCompileInputs.cache
+C:\Users\a.alqawadri\Desktop\school edited\Logging.ElmahCore\obj\Debug\net9.0\Logging.ElmahCore.dll
+C:\Users\a.alqawadri\Desktop\school edited\Logging.ElmahCore\obj\Debug\net9.0\refint\Logging.ElmahCore.dll
+C:\Users\a.alqawadri\Desktop\school edited\Logging.ElmahCore\obj\Debug\net9.0\Logging.ElmahCore.pdb
+C:\Users\a.alqawadri\Desktop\school edited\Logging.ElmahCore\obj\Debug\net9.0\ref\Logging.ElmahCore.dll

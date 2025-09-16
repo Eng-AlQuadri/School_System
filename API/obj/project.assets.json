@@ -2896,6 +2896,19 @@
         "runtime": {
           "bin/placeholder/Infrastructure.dll": {}
         }
+      },
+      "Logging.ElmahCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "ElmahCore": "2.1.2"
+        },
+        "compile": {
+          "bin/placeholder/Logging.ElmahCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Logging.ElmahCore.dll": {}
+        }
       }
     }
   },
@@ -8587,6 +8600,11 @@
       "type": "project",
       "path": "../Infrastructure/Infrastructure.csproj",
       "msbuildProject": "../Infrastructure/Infrastructure.csproj"
+    },
+    "Logging.ElmahCore/1.0.0": {
+      "type": "project",
+      "path": "../Logging.ElmahCore/Logging.ElmahCore.csproj",
+      "msbuildProject": "../Logging.ElmahCore/Logging.ElmahCore.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8595,6 +8613,7 @@
       "CloudinaryDotNet >= 1.27.4",
       "ElmahCore >= 2.1.2",
       "Infrastructure >= 1.0.0",
+      "Logging.ElmahCore >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 9.0.2",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 9.0.2",
       "Microsoft.AspNetCore.OpenApi >= 9.0.0",
@@ -8616,11 +8635,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a.alqawadri\\Desktop\\school edited\\api\\API.csproj",
+      "projectUniqueName": "C:\\Users\\a.alqawadri\\Desktop\\school edited\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\a.alqawadri\\Desktop\\school edited\\api\\API.csproj",
+      "projectPath": "C:\\Users\\a.alqawadri\\Desktop\\school edited\\API\\API.csproj",
       "packagesPath": "C:\\Users\\a.alqawadri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a.alqawadri\\Desktop\\school edited\\api\\obj\\",
+      "outputPath": "C:\\Users\\a.alqawadri\\Desktop\\school edited\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8643,6 +8662,9 @@
           "projectReferences": {
             "C:\\Users\\a.alqawadri\\Desktop\\school edited\\Infrastructure\\Infrastructure.csproj": {
               "projectPath": "C:\\Users\\a.alqawadri\\Desktop\\school edited\\Infrastructure\\Infrastructure.csproj"
+            },
+            "C:\\Users\\a.alqawadri\\Desktop\\school edited\\Logging.ElmahCore\\Logging.ElmahCore.csproj": {
+              "projectPath": "C:\\Users\\a.alqawadri\\Desktop\\school edited\\Logging.ElmahCore\\Logging.ElmahCore.csproj"
             }
           }
         }

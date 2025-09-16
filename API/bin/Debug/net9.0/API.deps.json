@@ -12,6 +12,7 @@
           "CloudinaryDotNet": "1.27.4",
           "ElmahCore": "2.1.2",
           "Infrastructure": "1.0.0",
+          "Logging.ElmahCore": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.2",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.2",
           "Microsoft.AspNetCore.OpenApi": "9.0.0",
@@ -1698,6 +1699,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Logging.ElmahCore/1.0.0": {
+        "dependencies": {
+          "ElmahCore": "2.1.2"
+        },
+        "runtime": {
+          "Logging.ElmahCore.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -2819,6 +2831,11 @@
       "sha512": ""
     },
     "Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Logging.ElmahCore/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

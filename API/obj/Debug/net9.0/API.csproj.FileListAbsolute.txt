@@ -676,3 +676,5 @@ C:\Users\a.alqawadri\Desktop\school edited\api\obj\Debug\net9.0\refint\API.dll
 C:\Users\a.alqawadri\Desktop\school edited\api\obj\Debug\net9.0\API.pdb
 C:\Users\a.alqawadri\Desktop\school edited\api\obj\Debug\net9.0\API.genruntimeconfig.cache
 C:\Users\a.alqawadri\Desktop\school edited\api\obj\Debug\net9.0\ref\API.dll
+C:\Users\a.alqawadri\Desktop\school edited\api\bin\Debug\net9.0\Logging.ElmahCore.dll
+C:\Users\a.alqawadri\Desktop\school edited\api\bin\Debug\net9.0\Logging.ElmahCore.pdb

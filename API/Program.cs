@@ -10,6 +10,7 @@ using Serilog;
 using Serilog.Exceptions;
 using ElmahCore.Mvc;
 using ElmahCore;
+using Logging.ElmahCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,12 +27,7 @@ builder.Services.AddSignalR();
 
 builder.Services.AddCors();
 
-builder.Services.AddElmah<ElmahCore.XmlFileErrorLog>(options =>
-{
-    options.LogPath = "~/logs"; // or use database provider
-
-    // options.OnPermissionCheck = context => context.User.HasClaim("Permission", "CanViewElmah");
-});
+builder.Services.AddElmahLogging();
 
 Log.Logger = new LoggerConfiguration()
         .MinimumLevel.Debug() 
@@ -79,7 +75,7 @@ app.UseCors(x => x
 
 app.UseMiddleware<RequestLocalizationMiddleware>();
 
-app.UseMiddleware<ExceptionMiddleware>();
+app.UseMiddleware<Logging.ElmahCore.ExceptionMiddleware>();
 
 app.UseHttpsRedirection();
 
@@ -111,7 +107,7 @@ app.UseAuthentication();
 
 app.UseAuthorization();
 
-app.UseElmah();
+app.UseElmahLogging();
 
 app.MapHub<PresenceHub>("hubs/presence");
 
