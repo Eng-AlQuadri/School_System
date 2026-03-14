@@ -1,0 +1,99 @@
+
+####################################
+# .NET / Visual Studio
+####################################
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+obj
+bin
+API/bin/
+API/obj/
+Core/bin/
+Core/obj/
+Infrastructure/bin/
+Infrastructure/obj/
+[Bb]uild/
+bld/
+
+# Visual Studio cache
+.vs/
+
+# NuGet packages
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# Logs
+*.log
+
+# Local database files
+*.mdf
+*.ldf
+*.dbmdl
+
+# Publish outputs
+publish/
+
+# Environment files
+.env
+
+####################################
+# Angular / Node.js (Client folder)
+####################################
+
+# Compiled output
+Client/dist/
+Client/tmp/
+Client/out-tsc/
+Client/bazel-out/
+
+# Node modules
+Client/node_modules/
+
+# Angular cache
+Client/.angular/cache/
+
+# Misc
+Client/connect.lock
+Client/coverage/
+Client/libpeerconnection.log
+Client/typings/
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# System files
+.DS_Store
+Thumbs.db
+
+####################################
+# Docker
+####################################
+
+# Ignore docker override configs
+docker-compose.override.yml
+*.local.yml
+
+# Ignore volume data
+volumes/
